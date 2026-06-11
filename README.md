@@ -71,10 +71,6 @@ A handheld game console built using ESP8266, OLED display, buttons and buzzer.
 - LEFT = Select
 - RIGHT = Move
 
-## Screenshots
-
-(Add images here)
-
 ## Future Improvements
 
 - EEPROM high scores
