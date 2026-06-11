@@ -5,7 +5,7 @@ PS : I created this projcet well before the announcement of Nintendo Switch 2 so
 
 # ESP8266 OLED Game Console
 
-A handheld game console built using ESP8266, OLED display, buttons and buzzer.
+A 1600 line handheld game console built using ESP8266, OLED display, buttons and buzzer.
 
 ## Features
 
