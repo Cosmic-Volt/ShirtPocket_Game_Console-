@@ -1,11 +1,12 @@
 # ShirtPocket_Game_Console-
 DIY ESP8266 handheld game console with OLED display, buzzer, 12 built-in games, music playback, and interactive utilities
+
 PS : I created this projcet well before the announcement of Nintendo Switch 2 so it has the name. 
 
 
 # ESP8266 OLED Game Console
 
-A 1600 line handheld game console built using ESP8266, OLED display, buttons and buzzer.
+A 1639 line handheld game console built using ESP8266, OLED display, buttons and buzzer.
 
 ## Features
 
