@@ -80,6 +80,18 @@ A 1639 line handheld game console built using ESP8266, OLED display, buttons and
 - SD card support
 - MP3 player
 
+##Video demo
+
+
+
+https://github.com/user-attachments/assets/342359fb-f0dc-4866-b792-b8802e005f14
+
+
+
+
+
+
+
 ## License
 
 MIT License
